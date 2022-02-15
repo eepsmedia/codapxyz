@@ -1,0 +1,1001 @@
+Sex,Age,Marital,Race,Hispanic,EmplStatus,Education,TotalIncome
+Female,25,Married,Other,Guatemalan,Civ Employed,some college,30000
+Female,25,Divorced,Other,Mexican,Civ Employed,some college,17000
+Female,25,Married,White,Mexican,Civ Employed,HS Grad,24600
+Male,25,Married,White,Mexican,Civ Employed,some college,22000
+Female,25,Never,Other,Mexican,Civ Employed,some college,27000
+Female,25,Never,Other,Mexican,Civ Employed,some HS,16000
+Female,25,Never,Other,Mexican,Civ Employed,some college,18000
+Female,25,Never,Other,Mexican,Civ Employed,some college,35000
+Female,25,Never,Other,Mexican,Civ Employed,bachelor's,80000
+Male,25,Never,Other,Mexican,Civ Employed,HS Grad,10700
+Male,25,Never,Other,Mexican,Civ Employed,some college,7500
+Female,25,Never,White,Mexican,Civ Employed,HS Grad,1120
+Female,25,Never,White,Mexican,Civ Employed,some college,14000
+Female,25,Never,White,Mexican,Civ Employed,HS Grad,15000
+Male,25,Never,White,Mexican,Civ Employed,some college,25000
+Male,25,Separated,White,Mexican,Civ Employed,HS Grad,25000
+Female,25,Divorced,Multi,Not Hisp,Civ Employed,some college,30400
+Female,25,Married,White,Not Hisp,Civ Employed,HS Grad,22500
+Male,25,Married,White,Not Hisp,Civ Employed,bachelor's,17000
+Female,25,Never,Asian,Not Hisp,Civ Employed,bachelor's,94000
+Female,25,Never,Asian,Not Hisp,Civ Employed,HS Grad,18900
+Female,25,Never,Asian,Not Hisp,Civ Employed,HS Grad,10000
+Male,25,Never,Asian,Not Hisp,Civ Employed,some college,30000
+Male,25,Never,Asian,Not Hisp,Civ Employed,HS Grad,40000
+Male,25,Never,Black,Not Hisp,Civ Employed,some college,18000
+Male,25,Never,Black,Not Hisp,Civ Employed,HS Grad,12000
+Male,25,Never,Black,Not Hisp,Civ Employed,HS Grad,9000
+Male,25,Never,Multi,Not Hisp,Civ Employed,HS Grad,13800
+Female,25,Never,White,Not Hisp,Civ Employed,bachelor's,21000
+Female,25,Never,White,Not Hisp,Civ Employed,graduate,39400
+Female,25,Never,White,Not Hisp,Civ Employed,bachelor's,20000
+Female,25,Never,White,Not Hisp,Civ Employed,bachelor's,26400
+Male,25,Never,White,Not Hisp,Civ Employed,HS Grad,15000
+Male,25,Never,White,Not Hisp,Civ Employed,some HS,16700
+Male,25,Never,White,Not Hisp,Civ Employed,some college,35000
+Male,25,Never,White,Salvadoran,Civ Employed,HS Grad,20000
+Male,25,Never,White,Venezuelan,Civ Employed,bachelor's,32000
+Female,25,Married,Other,Mexican,Not in labor force,some college,0
+Female,25,Married,White,Mexican,Not in labor force,8 or less,0
+Female,25,Never,Multi,Mexican,Not in labor force,some HS,0
+Female,25,Never,Other,Mexican,Not in labor force,some HS,0
+Female,25,Never,Other,Mexican,Not in labor force,some HS,0
+Male,25,Never,White,Mexican,Not in labor force,some college,7500
+Male,25,Married,HawPacIsl,Not Hisp,Not in labor force,some college,0
+Female,25,Married,White,Not Hisp,Not in labor force,some college,0
+Male,25,Never,Black,Not Hisp,Not in labor force,some college,0
+Female,25,Never,Multi,Not Hisp,Not in labor force,bachelor's,2000
+Female,25,Never,White,Not Hisp,Not in labor force,graduate,1000
+Female,25,Never,White,Not Hisp,Not in labor force,some college,2500
+Male,25,Married,Other,Mexican,Unemployed,HS Grad,10500
+Female,25,Never,Other,Mexican,Unemployed,some college,0
+Female,25,Married,Asian,Not Hisp,Unemployed,graduate,5400
+Male,25,Never,AmInd+,Not Hisp,Unemployed,some HS,0
+Male,25,Never,Black,Not Hisp,Unemployed,some HS,850
+Female,25,Separated,White,Other C.A.,Unemployed,some college,32100
+Male,26,Never,White,Not Hisp,Armed Forces,some college,56000
+Female,26,Married,White,Guatemalan,Civ Employed,bachelor's,10000
+Female,26,Never,Other,Guatemalan,Civ Employed,HS Grad,9100
+Male,26,Married,White,Mexican,Civ Employed,HS Grad,40000
+Male,26,Never,Other,Mexican,Civ Employed,HS Grad,28000
+Female,26,Never,White,Mexican,Civ Employed,some college,27800
+Female,26,Never,White,Mexican,Civ Employed,HS Grad,21600
+Female,26,Never,White,Mexican,Civ Employed,HS Grad,28000
+Female,26,Never,White,Mexican,Civ Employed,some college,25000
+Male,26,Never,White,Mexican,Civ Employed,some college,12000
+Female,26,Never,White,Nicaraguan,Civ Employed,some college,33000
+Male,26,Married,AmInd+,Not Hisp,Civ Employed,HS Grad,19000
+Female,26,Married,Asian,Not Hisp,Civ Employed,HS Grad,8200
+Female,26,Married,Other,Not Hisp,Civ Employed,graduate,35000
+Female,26,Married,White,Not Hisp,Civ Employed,some college,17000
+Female,26,Married,White,Not Hisp,Civ Employed,some college,12000
+Male,26,Married,White,Not Hisp,Civ Employed,HS Grad,75000
+Male,26,Married,White,Not Hisp,Civ Employed,bachelor's,100
+Male,26,Married,White,Not Hisp,Civ Employed,some college,27000
+Female,26,Never,Asian,Not Hisp,Civ Employed,graduate,200000
+Female,26,Never,Asian,Not Hisp,Civ Employed,bachelor's,100000
+Female,26,Never,Asian,Not Hisp,Civ Employed,graduate,95000
+Female,26,Never,Asian,Not Hisp,Civ Employed,bachelor's,38000
+Female,26,Never,Multi,Not Hisp,Civ Employed,graduate,121000
+Female,26,Never,Multi,Not Hisp,Civ Employed,bachelor's,45000
+Female,26,Never,White,Not Hisp,Civ Employed,some college,25000
+Female,26,Never,White,Not Hisp,Civ Employed,bachelor's,37000
+Female,26,Never,White,Not Hisp,Civ Employed,graduate,60000
+Female,26,Never,White,Not Hisp,Civ Employed,bachelor's,35000
+Female,26,Never,White,Not Hisp,Civ Employed,HS Grad,2500
+Male,26,Never,White,Not Hisp,Civ Employed,bachelor's,28000
+Male,26,Never,White,Not Hisp,Civ Employed,HS Grad,30000
+Male,26,Never,White,Not Hisp,Civ Employed,bachelor's,6000
+Male,26,Never,White,Not Hisp,Civ Employed,graduate,57800
+Male,26,Never,White,Not Hisp,Civ Employed,bachelor's,50010
+Male,26,Never,White,Not Hisp,Civ Employed,some college,38000
+Male,26,Never,Other,Salvadoran,Civ Employed,some college,19500
+Female,26,Married,White,Mexican,Civ Employed-not working,HS Grad,10000
+Female,26,Never,Other,Mexican,Civ Employed-not working,HS Grad,25000
+Female,26,Never,Black,Not Hisp,Civ Employed-not working,bachelor's,60000
+Male,26,Never,White,Mexican,Not in labor force,bachelor's,6000
+Female,26,Divorced,White,Not Hisp,Not in labor force,HS Grad,0
+Male,26,Married,Asian,Not Hisp,Not in labor force,bachelor's,0
+Female,26,Married,White,Not Hisp,Not in labor force,HS Grad,0
+Female,26,Married,White,Not Hisp,Not in labor force,some college,0
+Female,26,Married,White,Not Hisp,Not in labor force,some college,0
+Female,26,Never,Multi,Not Hisp,Not in labor force,bachelor's,920
+Male,26,Never,Multi,Not Hisp,Not in labor force,some college,0
+Female,26,Never,White,Not Hisp,Not in labor force,graduate,3400
+Female,26,Never,White,Not Hisp,Not in labor force,bachelor's,280
+Female,26,Never,White,Not Hisp,Not in labor force,some college,0
+Male,26,Never,White,Not Hisp,Not in labor force,HS Grad,0
+Male,26,Never,White,Not Hisp,Not in labor force,some college,42500
+Female,26,Never,Other,Mexican,Unemployed,HS Grad,13500
+Male,26,Never,White,Mexican,Unemployed,HS Grad,0
+Male,26,Never,Asian,Not Hisp,Unemployed,bachelor's,7400
+Female,27,Married,Other,Mexican,Civ Employed,some college,24000
+Female,27,Married,Other,Mexican,Civ Employed,HS Grad,600
+Female,27,Married,Other,Mexican,Civ Employed,some HS,450
+Male,27,Married,Other,Mexican,Civ Employed,HS Grad,14000
+Male,27,Married,Other,Mexican,Civ Employed,some college,22000
+Male,27,Married,Other,Mexican,Civ Employed,some HS,24000
+Male,27,Married,Other,Mexican,Civ Employed,some college,33000
+Female,27,Married,White,Mexican,Civ Employed,HS Grad,8300
+Male,27,Never,White,Mexican,Civ Employed,some HS,25000
+Male,27,Never,White,Mexican,Civ Employed,HS Grad,29000
+Male,27,Separated,White,Mexican,Civ Employed,8 or less,13000
+Female,27,Married,Multi,Not Hisp,Civ Employed,bachelor's,68000
+Female,27,Married,White,Not Hisp,Civ Employed,HS Grad,40000
+Female,27,Married,White,Not Hisp,Civ Employed,graduate,37000
+Female,27,Never,Asian,Not Hisp,Civ Employed,bachelor's,130000
+Male,27,Never,Asian,Not Hisp,Civ Employed,graduate,60000
+Male,27,Never,Multi,Not Hisp,Civ Employed,bachelor's,100000
+Female,27,Never,White,Not Hisp,Civ Employed,bachelor's,40000
+Female,27,Never,White,Not Hisp,Civ Employed,some college,47000
+Female,27,Never,White,Not Hisp,Civ Employed,bachelor's,33100
+Female,27,Never,White,Not Hisp,Civ Employed,bachelor's,28000
+Female,27,Never,White,Not Hisp,Civ Employed,bachelor's,14300
+Female,27,Never,White,Not Hisp,Civ Employed,bachelor's,30000
+Male,27,Never,White,Not Hisp,Civ Employed,8 or less,10000
+Male,27,Never,White,Not Hisp,Civ Employed,bachelor's,29000
+Male,27,Never,White,Not Hisp,Civ Employed,some college,15000
+Male,27,Never,White,Not Hisp,Civ Employed,bachelor's,35000
+Male,27,Never,White,Not Hisp,Civ Employed,bachelor's,4000
+Male,27,Never,White,Not Hisp,Civ Employed,some college,430
+Female,27,Never,Other,Salvadoran,Civ Employed,some college,15000
+Male,27,Never,Other,Salvadoran,Civ Employed,8 or less,15000
+Male,27,Never,Other,Mexican,Civ Employed-not working,some HS,20000
+Female,27,Never,White,Mexican,Not in labor force,8 or less,0
+Female,27,Never,Asian,Not Hisp,Not in labor force,bachelor's,0
+Male,27,Never,Asian,Not Hisp,Not in labor force,some college,20
+Female,27,Married,White,Mexican,Unemployed,some college,500
+Male,27,Married,Multi,Not Hisp,Unemployed,HS Grad,3000
+Male,27,Never,Asian,Not Hisp,Unemployed,graduate,0
+Male,27,Never,White,Not Hisp,Unemployed,some college,0
+Male,27,Never,White,Not Hisp,Unemployed,some college,50000
+Female,27,Separated,Asian,Not Hisp,Unemployed,graduate,0
+Male,28,Married,White,Mexican,Armed Forces,some college,50000
+Female,28,Never,Black,Honduran,Civ Employed,HS Grad,9900
+Male,28,Married,Other,Mexican,Civ Employed,bachelor's,4000
+Male,28,Married,Other,Mexican,Civ Employed,some college,45000
+Male,28,Married,Other,Mexican,Civ Employed,8 or less,18000
+Male,28,Married,Other,Mexican,Civ Employed,some HS,70000
+Female,28,Married,White,Mexican,Civ Employed,8 or less,16000
+Male,28,Married,White,Mexican,Civ Employed,HS Grad,61000
+Male,28,Married,White,Mexican,Civ Employed,some college,30000
+Female,28,Never,Other,Mexican,Civ Employed,some college,2000
+Male,28,Never,White,Mexican,Civ Employed,some college,24000
+Male,28,Never,White,Mexican,Civ Employed,some college,19000
+Female,28,Married,Asian,Not Hisp,Civ Employed,graduate,18800
+Female,28,Married,Asian,Not Hisp,Civ Employed,graduate,54060
+Female,28,Married,Asian,Not Hisp,Civ Employed,some college,25700
+Female,28,Married,Asian,Not Hisp,Civ Employed,8 or less,16000
+Male,28,Married,Asian,Not Hisp,Civ Employed,bachelor's,50000
+Male,28,Married,Asian,Not Hisp,Civ Employed,graduate,20000
+Male,28,Married,White,Not Hisp,Civ Employed,some college,26000
+Male,28,Married,White,Not Hisp,Civ Employed,HS Grad,75000
+Female,28,Never,Asian,Not Hisp,Civ Employed,bachelor's,90000
+Female,28,Never,Asian,Not Hisp,Civ Employed,bachelor's,35000
+Male,28,Never,Other,Not Hisp,Civ Employed,HS Grad,50000
+Female,28,Never,White,Not Hisp,Civ Employed,HS Grad,30000
+Male,28,Never,White,Not Hisp,Civ Employed,some college,24800
+Male,28,Never,White,Not Hisp,Civ Employed,HS Grad,44000
+Male,28,Never,White,Spaniard,Civ Employed,some HS,2000
+Female,28,Divorced,White,Not Hisp,Civ Employed-not working,some college,30000
+Female,28,Married,Other,Mexican,Not in labor force,8 or less,0
+Female,28,Married,White,Mexican,Not in labor force,some college,0
+Female,28,Married,White,Mexican,Not in labor force,8 or less,0
+Male,28,Never,Other,Mexican,Not in labor force,some HS,0
+Male,28,Married,Black,Not Hisp,Not in labor force,some college,0
+Female,28,Never,Black,Not Hisp,Not in labor force,some college,0
+Female,28,Never,Black,Not Hisp,Not in labor force,some college,41700
+Female,28,Married,White,Other Hisp/Latino,Not in labor force,some college,0
+Female,28,Never,Other,Mexican,Unemployed,some college,15800
+Female,28,Married,White,Not Hisp,Unemployed,bachelor's,150
+Male,28,Never,White,Not Hisp,Unemployed,some HS,0
+Male,29,Never,Other,Honduran,Civ Employed,HS Grad,22400
+Female,29,Married,White,Mexican,Civ Employed,some HS,12400
+Female,29,Married,White,Mexican,Civ Employed,some college,28000
+Male,29,Married,White,Mexican,Civ Employed,some college,31200
+Male,29,Married,White,Mexican,Civ Employed,HS Grad,52000
+Male,29,Married,White,Mexican,Civ Employed,some college,40000
+Female,29,Never,Other,Mexican,Civ Employed,bachelor's,16500
+Male,29,Never,Other,Mexican,Civ Employed,HS Grad,10000
+Female,29,Never,White,Mexican,Civ Employed,some college,30000
+Female,29,Never,White,Mexican,Civ Employed,graduate,29800
+Female,29,Divorced,White,Not Hisp,Civ Employed,bachelor's,38000
+Female,29,Divorced,White,Not Hisp,Civ Employed,some college,40000
+Male,29,Divorced,White,Not Hisp,Civ Employed,bachelor's,110000
+Female,29,Married,Multi,Not Hisp,Civ Employed,some college,66000
+Male,29,Married,Multi,Not Hisp,Civ Employed,HS Grad,24000
+Female,29,Married,White,Not Hisp,Civ Employed,some college,33800
+Female,29,Married,White,Not Hisp,Civ Employed,some college,42000
+Female,29,Married,White,Not Hisp,Civ Employed,graduate,45500
+Female,29,Married,White,Not Hisp,Civ Employed,graduate,3000
+Female,29,Married,White,Not Hisp,Civ Employed,bachelor's,85000
+Female,29,Married,White,Not Hisp,Civ Employed,graduate,45020
+Male,29,Married,White,Not Hisp,Civ Employed,bachelor's,61000
+Male,29,Married,White,Not Hisp,Civ Employed,8 or less,98000
+Male,29,Never,Asian,Not Hisp,Civ Employed,some college,30000
+Male,29,Never,Asian,Not Hisp,Civ Employed,bachelor's,135500
+Female,29,Never,White,Not Hisp,Civ Employed,some college,10000
+Female,29,Never,White,Not Hisp,Civ Employed,some college,9100
+Female,29,Never,White,Not Hisp,Civ Employed,bachelor's,11000
+Female,29,Never,White,Not Hisp,Civ Employed,bachelor's,10300
+Female,29,Never,White,Not Hisp,Civ Employed,bachelor's,20000
+Female,29,Never,White,Not Hisp,Civ Employed,HS Grad,42000
+Female,29,Never,White,Not Hisp,Civ Employed,some college,21900
+Female,29,Never,White,Not Hisp,Civ Employed,bachelor's,105000
+Female,29,Never,White,Not Hisp,Civ Employed,bachelor's,25000
+Male,29,Never,White,Not Hisp,Civ Employed,bachelor's,90000
+Male,29,Never,White,Not Hisp,Civ Employed,HS Grad,30000
+Male,29,Never,White,Not Hisp,Civ Employed,some college,38000
+Female,29,Separated,Black,Not Hisp,Civ Employed,graduate,146000
+Male,29,Never,White,Other Hisp/Latino,Civ Employed,some college,77000
+Female,29,Never,White,Puerto Rican,Civ Employed,bachelor's,50000
+Female,29,Divorced,Other,Salvadoran,Civ Employed,graduate,6000
+Male,29,Never,Other,Salvadoran,Civ Employed,some college,11100
+Female,29,Divorced,Other,Mexican,Civ Employed-not working,HS Grad,15500
+Female,29,Married,White,Nicaraguan,Civ Employed-not working,some college,16500
+Female,29,Married,Asian,Not Hisp,Civ Employed-not working,HS Grad,35000
+Female,29,Married,White,Not Hisp,Civ Employed-not working,bachelor's,40000
+Female,29,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,29,Married,Asian,Not Hisp,Not in labor force,some college,0
+Female,29,Never,Multi,Not Hisp,Not in labor force,8 or less,11160
+Female,29,Never,White,Not Hisp,Not in labor force,graduate,15000
+Female,29,Never,White,Not Hisp,Not in labor force,HS Grad,0
+Female,29,Never,Other,Mexican,Unemployed,8 or less,0
+Male,29,Never,Other,Mexican,Unemployed,some college,0
+Female,29,Married,Asian,Not Hisp,Unemployed,some college,50000
+Female,29,Married,White,Not Hisp,Unemployed,some college,680
+Male,30,Divorced,White,Mexican,Civ Employed,some college,65000
+Male,30,Married,Other,Mexican,Civ Employed,HS Grad,19000
+Male,30,Married,White,Mexican,Civ Employed,some college,140000
+Male,30,Married,White,Mexican,Civ Employed,HS Grad,22200
+Female,30,Never,Other,Mexican,Civ Employed,bachelor's,21000
+Female,30,Never,Other,Mexican,Civ Employed,HS Grad,9400
+Female,30,Never,Other,Mexican,Civ Employed,HS Grad,9800
+Female,30,Never,White,Mexican,Civ Employed,HS Grad,15100
+Male,30,Never,White,Mexican,Civ Employed,HS Grad,32000
+Female,30,Separated,Other,Mexican,Civ Employed,some college,12000
+Male,30,Divorced,White,Not Hisp,Civ Employed,bachelor's,30000
+Female,30,Married,Asian,Not Hisp,Civ Employed,bachelor's,68000
+Female,30,Married,Asian,Not Hisp,Civ Employed,some college,25000
+Female,30,Married,Asian,Not Hisp,Civ Employed,graduate,110000
+Female,30,Married,White,Not Hisp,Civ Employed,graduate,80000
+Female,30,Married,White,Not Hisp,Civ Employed,bachelor's,38500
+Male,30,Married,White,Not Hisp,Civ Employed,some college,70000
+Male,30,Married,White,Not Hisp,Civ Employed,bachelor's,42000
+Male,30,Married,White,Not Hisp,Civ Employed,some college,10000
+Male,30,Married,White,Not Hisp,Civ Employed,bachelor's,80000
+Male,30,Married,White,Not Hisp,Civ Employed,bachelor's,106200
+Female,30,Never,Asian,Not Hisp,Civ Employed,some college,75000
+Male,30,Never,Asian,Not Hisp,Civ Employed,graduate,82000
+Male,30,Never,Multi,Not Hisp,Civ Employed,graduate,68000
+Male,30,Never,Multi,Not Hisp,Civ Employed,bachelor's,60000
+Female,30,Never,White,Not Hisp,Civ Employed,some college,26000
+Female,30,Never,White,Not Hisp,Civ Employed,bachelor's,108600
+Female,30,Never,White,Not Hisp,Civ Employed,some HS,17000
+Female,30,Never,White,Not Hisp,Civ Employed,some college,4600
+Female,30,Never,White,Not Hisp,Civ Employed,graduate,45000
+Female,30,Never,White,Not Hisp,Civ Employed,bachelor's,100000
+Male,30,Never,White,Not Hisp,Civ Employed,HS Grad,25400
+Male,30,Never,White,Not Hisp,Civ Employed,some HS,24000
+Male,30,Never,White,Not Hisp,Civ Employed,graduate,20000
+Male,30,Never,White,Not Hisp,Civ Employed,some college,57000
+Female,30,Separated,White,Not Hisp,Civ Employed,bachelor's,33000
+Male,30,Never,White,Puerto Rican,Civ Employed,some college,40000
+Female,30,Never,Other,Salvadoran,Civ Employed,HS Grad,21600
+Male,30,Divorced,White,Mexican,Not in labor force,HS Grad,0
+Female,30,Married,Multi,Mexican,Not in labor force,some college,0
+Female,30,Married,Other,Mexican,Not in labor force,HS Grad,0
+Female,30,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,30,Married,White,Mexican,Not in labor force,bachelor's,0
+Male,30,Married,White,Mexican,Not in labor force,some HS,78800
+Female,30,Never,Other,Mexican,Not in labor force,HS Grad,1200
+Female,30,Never,White,Mexican,Not in labor force,some HS,7200
+Male,30,Never,White,Mexican,Not in labor force,8 or less,0
+Male,30,Never,White,Mexican,Not in labor force,HS Grad,10400
+Female,30,Married,White,Not Hisp,Not in labor force,some college,4100
+Male,30,Never,Multi,Not Hisp,Not in labor force,HS Grad,10800
+Female,30,Never,White,Not Hisp,Not in labor force,HS Grad,20200
+Male,30,Never,White,Not Hisp,Not in labor force,8 or less,12000
+Male,30,Never,White,Not Hisp,Not in labor force,some college,7500
+Female,30,Married,White,Mexican,Unemployed,graduate,7000
+Male,30,Divorced,White,Not Hisp,Unemployed,some HS,0
+Male,30,Never,Multi,Not Hisp,Unemployed,HS Grad,0
+Female,31,Divorced,White,Mexican,Civ Employed,graduate,36300
+Male,31,Married,Other,Mexican,Civ Employed,some HS,13000
+Male,31,Married,Other,Mexican,Civ Employed,bachelor's,60000
+Male,31,Married,Other,Mexican,Civ Employed,HS Grad,16000
+Male,31,Married,White,Mexican,Civ Employed,bachelor's,74000
+Female,31,Never,Other,Mexican,Civ Employed,graduate,25000
+Female,31,Never,Other,Mexican,Civ Employed,8 or less,17900
+Male,31,Never,Other,Mexican,Civ Employed,some college,28400
+Male,31,Never,Other,Mexican,Civ Employed,bachelor's,50000
+Female,31,Never,White,Mexican,Civ Employed,HS Grad,37000
+Male,31,Never,White,Mexican,Civ Employed,some college,42500
+Male,31,Never,White,Mexican,Civ Employed,8 or less,26400
+Female,31,Separated,White,Mexican,Civ Employed,HS Grad,25000
+Female,31,Married,Asian,Not Hisp,Civ Employed,bachelor's,21800
+Female,31,Married,Asian,Not Hisp,Civ Employed,bachelor's,30500
+Female,31,Married,Asian,Not Hisp,Civ Employed,some college,6600
+Male,31,Married,Asian,Not Hisp,Civ Employed,some college,30000
+Female,31,Married,Black,Not Hisp,Civ Employed,HS Grad,19200
+Female,31,Married,Black,Not Hisp,Civ Employed,some college,30000
+Female,31,Married,White,Not Hisp,Civ Employed,bachelor's,61000
+Female,31,Married,White,Not Hisp,Civ Employed,bachelor's,50000
+Female,31,Married,White,Not Hisp,Civ Employed,bachelor's,90000
+Female,31,Married,White,Not Hisp,Civ Employed,bachelor's,45000
+Male,31,Married,White,Not Hisp,Civ Employed,some college,14200
+Male,31,Married,White,Not Hisp,Civ Employed,graduate,50000
+Male,31,Married,White,Not Hisp,Civ Employed,graduate,86000
+Female,31,Never,Asian,Not Hisp,Civ Employed,bachelor's,35504
+Female,31,Never,Asian,Not Hisp,Civ Employed,some college,80000
+Female,31,Never,Asian,Not Hisp,Civ Employed,bachelor's,15000
+Female,31,Never,Black,Not Hisp,Civ Employed,some college,40000
+Female,31,Never,White,Not Hisp,Civ Employed,HS Grad,21500
+Female,31,Never,White,Not Hisp,Civ Employed,some college,7000
+Female,31,Never,White,Not Hisp,Civ Employed,bachelor's,25000
+Female,31,Never,White,Not Hisp,Civ Employed,bachelor's,17500
+Female,31,Never,White,Not Hisp,Civ Employed,some college,32000
+Male,31,Never,White,Not Hisp,Civ Employed,bachelor's,180500
+Male,31,Never,White,Not Hisp,Civ Employed,bachelor's,30000
+Male,31,Never,White,Not Hisp,Civ Employed,bachelor's,40000
+Male,31,Never,White,Not Hisp,Civ Employed,bachelor's,100000
+Male,31,Never,White,Not Hisp,Civ Employed,HS Grad,5000
+Male,31,Never,White,Salvadoran,Civ Employed,HS Grad,28000
+Female,31,Married,White,Not Hisp,Civ Employed-not working,HS Grad,16000
+Female,31,Never,White,Puerto Rican,Civ Employed-not working,HS Grad,20000
+Female,31,Married,Other,Mexican,Not in labor force,some HS,0
+Female,31,Married,Other,Mexican,Not in labor force,HS Grad,0
+Female,31,Married,White,Mexican,Not in labor force,HS Grad,0
+Male,31,Married,White,Mexican,Not in labor force,some HS,14400
+Female,31,Married,Multi,Not Hisp,Not in labor force,HS Grad,5500
+Female,31,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,31,Separated,AmInd+,Not Hisp,Not in labor force,some college,12500
+Male,31,Separated,White,Not Hisp,Not in labor force,bachelor's,0
+Female,31,Separated,White,Guatemalan,Unemployed,some college,0
+Female,31,Married,White,Mexican,Unemployed,some college,8000
+Male,31,Never,Multi,Mexican,Unemployed,bachelor's,0
+Female,31,Never,White,Mexican,Unemployed,bachelor's,0
+Male,31,Widowed,White,Mexican,Unemployed,HS Grad,13000
+Male,31,Never,White,Not Hisp,Unemployed,some college,31400
+Male,32,Married,White,Not Hisp,Armed Forces,graduate,112400
+Female,32,Married,White,Chilean,Civ Employed,some college,30100
+Female,32,Married,White,Guatemalan,Civ Employed,graduate,60000
+Female,32,Married,Other,Mexican,Civ Employed,some college,48000
+Female,32,Married,White,Mexican,Civ Employed,bachelor's,42000
+Female,32,Married,White,Mexican,Civ Employed,graduate,55000
+Male,32,Married,White,Mexican,Civ Employed,some HS,4500
+Male,32,Married,White,Mexican,Civ Employed,HS Grad,50000
+Male,32,Never,AmInd+,Mexican,Civ Employed,some college,11800
+Female,32,Divorced,White,Not Hisp,Civ Employed,some college,2000
+Male,32,Married,Asian,Not Hisp,Civ Employed,bachelor's,109000
+Male,32,Married,Asian,Not Hisp,Civ Employed,graduate,120550
+Female,32,Married,Multi,Not Hisp,Civ Employed,bachelor's,60000
+Female,32,Married,Multi,Not Hisp,Civ Employed,graduate,165000
+Female,32,Married,Multi,Not Hisp,Civ Employed,some college,42000
+Female,32,Married,White,Not Hisp,Civ Employed,some college,24500
+Female,32,Married,White,Not Hisp,Civ Employed,some college,60000
+Female,32,Married,White,Not Hisp,Civ Employed,bachelor's,80000
+Male,32,Married,White,Not Hisp,Civ Employed,bachelor's,57200
+Male,32,Married,White,Not Hisp,Civ Employed,graduate,120000
+Male,32,Married,White,Not Hisp,Civ Employed,some college,85000
+Male,32,Married,White,Not Hisp,Civ Employed,HS Grad,20000
+Male,32,Married,White,Not Hisp,Civ Employed,bachelor's,44900
+Female,32,Never,Asian,Not Hisp,Civ Employed,bachelor's,51000
+Male,32,Never,Black,Not Hisp,Civ Employed,some college,48000
+Male,32,Never,Multi,Not Hisp,Civ Employed,graduate,100000
+Female,32,Never,White,Not Hisp,Civ Employed,HS Grad,65000
+Female,32,Never,White,Not Hisp,Civ Employed,some HS,2000
+Female,32,Never,White,Not Hisp,Civ Employed,HS Grad,40000
+Male,32,Never,White,Not Hisp,Civ Employed,bachelor's,156000
+Female,32,Married,Other,Puerto Rican,Civ Employed,HS Grad,45000
+Female,32,Married,White,Puerto Rican,Civ Employed,some college,115000
+Female,32,Separated,Other,Colombian,Civ Employed-not working,bachelor's,30000
+Male,32,Never,White,Mexican,Civ Employed-not working,some HS,21000
+Female,32,Divorced,Other,Mexican,Not in labor force,HS Grad,0
+Female,32,Married,Other,Mexican,Not in labor force,some college,0
+Female,32,Married,Other,Mexican,Not in labor force,some college,1000
+Female,32,Married,Other,Mexican,Not in labor force,some college,0
+Female,32,Married,White,Mexican,Not in labor force,some HS,0
+Female,32,Married,White,Mexican,Not in labor force,some college,290
+Female,32,Married,Asian,Not Hisp,Not in labor force,bachelor's,0
+Female,32,Married,White,Not Hisp,Not in labor force,8 or less,10100
+Female,32,Married,White,Not Hisp,Not in labor force,some college,4000
+Male,32,Never,Asian,Not Hisp,Not in labor force,some college,0
+Female,32,Never,White,Not Hisp,Not in labor force,bachelor's,0
+Female,32,Never,White,Not Hisp,Not in labor force,some college,0
+Male,32,Never,White,Not Hisp,Not in labor force,HS Grad,100
+Male,32,Never,White,Not Hisp,Not in labor force,some HS,10000
+Male,32,Separated,Black,Not Hisp,Not in labor force,HS Grad,0
+Male,32,Never,White,Mexican,Unemployed,8 or less,12200
+Female,32,Married,Asian,Not Hisp,Unemployed,some college,200
+Male,32,Never,Multi,Not Hisp,Unemployed,bachelor's,22800
+Male,32,Never,White,Not Hisp,Unemployed,HS Grad,7600
+Female,33,Divorced,Other,Guatemalan,Civ Employed,8 or less,15000
+Male,33,Divorced,White,Guatemalan,Civ Employed,some HS,30000
+Male,33,Never,Other,Guatemalan,Civ Employed,8 or less,4200
+Male,33,Married,Other,Mexican,Civ Employed,some college,75000
+Female,33,Married,White,Mexican,Civ Employed,bachelor's,43000
+Female,33,Married,White,Mexican,Civ Employed,8 or less,4300
+Female,33,Married,White,Mexican,Civ Employed,graduate,16000
+Male,33,Married,White,Mexican,Civ Employed,some college,70000
+Male,33,Married,White,Mexican,Civ Employed,HS Grad,55000
+Male,33,Married,White,Mexican,Civ Employed,some HS,28000
+Male,33,Never,Other,Mexican,Civ Employed,HS Grad,12000
+Male,33,Never,White,Mexican,Civ Employed,bachelor's,12000
+Male,33,Never,White,Mexican,Civ Employed,HS Grad,19600
+Female,33,Separated,White,Mexican,Civ Employed,HS Grad,28000
+Female,33,Separated,White,Mexican,Civ Employed,some HS,13200
+Female,33,Divorced,White,Not Hisp,Civ Employed,some college,27300
+Female,33,Divorced,White,Not Hisp,Civ Employed,some college,38000
+Female,33,Married,Multi,Not Hisp,Civ Employed,some HS,24000
+Male,33,Married,White,Not Hisp,Civ Employed,bachelor's,78000
+Male,33,Married,White,Not Hisp,Civ Employed,HS Grad,66000
+Male,33,Married,White,Not Hisp,Civ Employed,graduate,50000
+Male,33,Married,White,Not Hisp,Civ Employed,HS Grad,8000
+Male,33,Married,White,Not Hisp,Civ Employed,graduate,63000
+Female,33,Never,Asian,Not Hisp,Civ Employed,HS Grad,37200
+Female,33,Never,Asian,Not Hisp,Civ Employed,bachelor's,70000
+Male,33,Never,Asian,Not Hisp,Civ Employed,some college,20000
+Male,33,Never,Asian,Not Hisp,Civ Employed,bachelor's,88000
+Female,33,Never,Multi,Not Hisp,Civ Employed,bachelor's,36000
+Female,33,Never,White,Not Hisp,Civ Employed,some college,25000
+Female,33,Separated,White,Not Hisp,Civ Employed,graduate,30000
+Male,33,Separated,White,Not Hisp,Civ Employed,some college,130000
+Male,33,Married,Other,Salvadoran,Civ Employed,some HS,15400
+Female,33,Never,Other,Salvadoran,Civ Employed,some college,590
+Female,33,Never,White,Salvadoran,Civ Employed,bachelor's,24000
+Male,33,Never,Other,Mexican,Civ Employed-not working,some HS,22000
+Female,33,Married,White,Mexican,Not in labor force,some HS,0
+Female,33,Married,White,Mexican,Not in labor force,some college,0
+Male,33,Never,White,Mexican,Not in labor force,some HS,0
+Male,33,Never,White,Mexican,Not in labor force,some HS,0
+Female,33,Married,Multi,Not Hisp,Not in labor force,bachelor's,50
+Female,33,Married,White,Not Hisp,Not in labor force,HS Grad,0
+Female,33,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Male,33,Never,White,Not Hisp,Not in labor force,HS Grad,0
+Male,33,Never,Multi,Puerto Rican,Not in labor force,HS Grad,0
+Female,33,Married,White,Not Hisp,Unemployed,HS Grad,0
+Male,33,Married,White,Not Hisp,Unemployed,HS Grad,5
+Female,33,Never,White,Not Hisp,Unemployed,some HS,18000
+Female,33,Separated,White,Not Hisp,Unemployed,some college,12000
+Male,34,Married,AmInd+,Guatemalan,Civ Employed,8 or less,28000
+Female,34,Married,Multi,Mexican,Civ Employed,graduate,58000
+Male,34,Married,Other,Mexican,Civ Employed,some HS,8000
+Female,34,Married,White,Mexican,Civ Employed,some HS,16000
+Male,34,Married,White,Mexican,Civ Employed,some HS,14400
+Male,34,Married,White,Mexican,Civ Employed,bachelor's,18000
+Male,34,Never,Other,Mexican,Civ Employed,8 or less,13000
+Male,34,Never,Other,Mexican,Civ Employed,some college,17000
+Female,34,Divorced,White,Not Hisp,Civ Employed,some college,24450
+Female,34,Married,Asian,Not Hisp,Civ Employed,HS Grad,17200
+Male,34,Married,Asian,Not Hisp,Civ Employed,bachelor's,80000
+Female,34,Married,White,Not Hisp,Civ Employed,some college,8000
+Male,34,Married,White,Not Hisp,Civ Employed,bachelor's,78000
+Male,34,Married,White,Not Hisp,Civ Employed,some college,40000
+Male,34,Married,White,Not Hisp,Civ Employed,graduate,80000
+Male,34,Married,White,Not Hisp,Civ Employed,bachelor's,70000
+Male,34,Married,White,Not Hisp,Civ Employed,some college,160000
+Male,34,Married,White,Not Hisp,Civ Employed,HS Grad,33300
+Female,34,Never,Asian,Not Hisp,Civ Employed,graduate,109000
+Male,34,Never,Asian,Not Hisp,Civ Employed,graduate,2900
+Female,34,Never,White,Not Hisp,Civ Employed,graduate,130000
+Female,34,Never,White,Not Hisp,Civ Employed,graduate,80000
+Female,34,Never,White,Not Hisp,Civ Employed,bachelor's,70700
+Female,34,Never,White,Not Hisp,Civ Employed,some college,25000
+Male,34,Never,White,Not Hisp,Civ Employed,graduate,129000
+Male,34,Never,White,Not Hisp,Civ Employed,HS Grad,50000
+Male,34,Never,Other,Salvadoran,Civ Employed,HS Grad,21000
+Female,34,Married,White,Not Hisp,Civ Employed-not working,some college,6000
+Female,34,Married,White,Not Hisp,Civ Employed-not working,graduate,50000
+Female,34,Married,White,Mexican,Not in labor force,8 or less,0
+Female,34,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,34,Married,Asian,Not Hisp,Not in labor force,bachelor's,0
+Female,34,Married,Multi,Not Hisp,Not in labor force,some college,23000
+Female,34,Married,White,Not Hisp,Not in labor force,HS Grad,0
+Female,34,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,34,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,34,Never,Black,Not Hisp,Not in labor force,some college,3830
+Male,34,Never,White,Not Hisp,Not in labor force,HS Grad,8800
+Male,34,Never,White,Not Hisp,Not in labor force,some college,10200
+Female,34,Separated,Other,Mexican,Unemployed,some HS,17000
+Male,34,Married,Asian,Not Hisp,Unemployed,bachelor's,240
+Male,35,Never,Other,Guatemalan,Civ Employed,8 or less,15000
+Male,35,Separated,Other,Guatemalan,Civ Employed,some HS,19000
+Male,35,Divorced,Other,Mexican,Civ Employed,8 or less,11000
+Male,35,Married,AmInd+,Mexican,Civ Employed,HS Grad,40000
+Female,35,Married,Other,Mexican,Civ Employed,some college,12600
+Male,35,Married,White,Mexican,Civ Employed,bachelor's,38000
+Male,35,Married,White,Mexican,Civ Employed,HS Grad,40000
+Male,35,Married,White,Mexican,Civ Employed,8 or less,27000
+Male,35,Married,White,Mexican,Civ Employed,8 or less,25000
+Female,35,Never,Multi,Mexican,Civ Employed,HS Grad,5500
+Female,35,Never,Other,Mexican,Civ Employed,HS Grad,28800
+Female,35,Never,Other,Mexican,Civ Employed,some college,24000
+Female,35,Never,Other,Mexican,Civ Employed,8 or less,77000
+Female,35,Never,White,Mexican,Civ Employed,bachelor's,112000
+Male,35,Divorced,White,Not Hisp,Civ Employed,HS Grad,55000
+Male,35,Divorced,White,Not Hisp,Civ Employed,some college,30000
+Female,35,Married,Asian,Not Hisp,Civ Employed,bachelor's,80560
+Female,35,Married,Asian,Not Hisp,Civ Employed,HS Grad,15000
+Female,35,Married,Black,Not Hisp,Civ Employed,some college,28000
+Female,35,Married,White,Not Hisp,Civ Employed,bachelor's,105000
+Female,35,Married,White,Not Hisp,Civ Employed,some college,105100
+Female,35,Married,White,Not Hisp,Civ Employed,bachelor's,10000
+Female,35,Married,White,Not Hisp,Civ Employed,bachelor's,47200
+Male,35,Married,White,Not Hisp,Civ Employed,graduate,52000
+Male,35,Married,White,Not Hisp,Civ Employed,graduate,423000
+Male,35,Married,White,Not Hisp,Civ Employed,some college,45000
+Male,35,Married,White,Not Hisp,Civ Employed,some college,30000
+Male,35,Married,White,Not Hisp,Civ Employed,graduate,230000
+Male,35,Married,White,Not Hisp,Civ Employed,HS Grad,50000
+Male,35,Married,White,Not Hisp,Civ Employed,some HS,57000
+Male,35,Married,White,Not Hisp,Civ Employed,HS Grad,96000
+Female,35,Never,AmInd+,Not Hisp,Civ Employed,some college,70000
+Female,35,Never,Asian,Not Hisp,Civ Employed,some college,32000
+Male,35,Never,Asian,Not Hisp,Civ Employed,bachelor's,80000
+Female,35,Never,Black,Not Hisp,Civ Employed,graduate,40000
+Female,35,Never,White,Not Hisp,Civ Employed,graduate,20000
+Male,35,Never,White,Not Hisp,Civ Employed,some college,28400
+Male,35,Married,Other,Other Hisp/Latino,Civ Employed,8 or less,29000
+Female,35,Married,Other,Mexican,Civ Employed-not working,bachelor's,58000
+Female,35,Married,White,Mexican,Civ Employed-not working,HS Grad,1400
+Male,35,Married,Asian,Not Hisp,Civ Employed-not working,graduate,80000
+Male,35,Married,White,Not Hisp,Civ Employed-not working,graduate,55000
+Female,35,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,35,Never,Other,Mexican,Not in labor force,8 or less,0
+Male,35,Never,Other,Mexican,Not in labor force,some HS,2400
+Male,35,Never,White,Mexican,Not in labor force,some HS,7700
+Male,35,Never,White,Mexican,Not in labor force,HS Grad,0
+Female,35,Married,AmInd+,Not Hisp,Not in labor force,HS Grad,0
+Female,35,Married,Asian,Not Hisp,Not in labor force,some HS,0
+Female,35,Married,Black,Not Hisp,Not in labor force,graduate,33700
+Female,35,Married,White,Not Hisp,Not in labor force,HS Grad,0
+Female,35,Never,Black,Not Hisp,Not in labor force,HS Grad,10
+Male,35,Never,White,Not Hisp,Not in labor force,some college,0
+Male,35,Never,White,Not Hisp,Not in labor force,HS Grad,0
+Male,35,Never,White,Not Hisp,Not in labor force,HS Grad,16200
+Male,36,Married,Multi,Bolivian,Civ Employed,some college,40000
+Female,36,Married,Other,Mexican,Civ Employed,HS Grad,55000
+Female,36,Married,Other,Mexican,Civ Employed,HS Grad,35300
+Male,36,Married,Other,Mexican,Civ Employed,some HS,19000
+Male,36,Married,Other,Mexican,Civ Employed,some HS,21000
+Male,36,Married,Other,Mexican,Civ Employed,some college,45000
+Female,36,Married,White,Mexican,Civ Employed,some college,28000
+Female,36,Married,White,Mexican,Civ Employed,8 or less,4500
+Male,36,Married,White,Mexican,Civ Employed,HS Grad,48300
+Male,36,Married,White,Mexican,Civ Employed,some HS,15000
+Female,36,Never,Other,Mexican,Civ Employed,some college,25000
+Female,36,Never,White,Mexican,Civ Employed,bachelor's,45000
+Male,36,Never,White,Mexican,Civ Employed,some HS,16000
+Female,36,Divorced,White,Not Hisp,Civ Employed,some college,43000
+Male,36,Divorced,White,Not Hisp,Civ Employed,HS Grad,28000
+Female,36,Married,Asian,Not Hisp,Civ Employed,some college,36000
+Female,36,Married,Asian,Not Hisp,Civ Employed,some college,30000
+Female,36,Married,Asian,Not Hisp,Civ Employed,bachelor's,47000
+Female,36,Married,Asian,Not Hisp,Civ Employed,some college,24500
+Male,36,Married,Asian,Not Hisp,Civ Employed,some college,5000
+Male,36,Married,Asian,Not Hisp,Civ Employed,bachelor's,70000
+Female,36,Married,Other,Not Hisp,Civ Employed,graduate,47000
+Female,36,Married,White,Not Hisp,Civ Employed,bachelor's,75000
+Female,36,Married,White,Not Hisp,Civ Employed,graduate,75000
+Male,36,Married,White,Not Hisp,Civ Employed,some HS,120000
+Male,36,Married,White,Not Hisp,Civ Employed,some college,55000
+Male,36,Married,White,Not Hisp,Civ Employed,bachelor's,421000
+Male,36,Married,White,Not Hisp,Civ Employed,bachelor's,125000
+Male,36,Married,White,Not Hisp,Civ Employed,HS Grad,60000
+Male,36,Married,White,Not Hisp,Civ Employed,bachelor's,112500
+Male,36,Never,Asian,Not Hisp,Civ Employed,bachelor's,85000
+Male,36,Never,White,Not Hisp,Civ Employed,HS Grad,13500
+Male,36,Never,White,Not Hisp,Civ Employed,graduate,65000
+Male,36,Married,Other,Peruvian,Civ Employed,8 or less,3600
+Female,36,Separated,Other,Peruvian,Civ Employed,8 or less,12000
+Female,36,Married,Other,Mexican,Not in labor force,HS Grad,0
+Female,36,Married,Other,Mexican,Not in labor force,8 or less,0
+Female,36,Married,White,Mexican,Not in labor force,some college,0
+Female,36,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,36,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,36,Never,Multi,Mexican,Not in labor force,HS Grad,10600
+Male,36,Never,Multi,Mexican,Not in labor force,some HS,10100
+Female,36,Married,Multi,Not Hisp,Not in labor force,graduate,0
+Female,36,Married,White,Not Hisp,Not in labor force,some college,4000
+Female,36,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,36,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,36,Married,White,Not Hisp,Not in labor force,bachelor's,12000
+Female,36,Never,Asian,Not Hisp,Not in labor force,8 or less,0
+Male,36,Never,White,Not Hisp,Not in labor force,bachelor's,4000
+Male,36,Never,White,Not Hisp,Unemployed,bachelor's,140000
+Female,37,Divorced,White,Mexican,Civ Employed,bachelor's,62000
+Female,37,Divorced,White,Mexican,Civ Employed,HS Grad,15800
+Female,37,Married,Other,Mexican,Civ Employed,some college,9600
+Female,37,Married,Other,Mexican,Civ Employed,some college,48000
+Male,37,Married,Other,Mexican,Civ Employed,HS Grad,33000
+Female,37,Married,White,Mexican,Civ Employed,some college,500
+Male,37,Married,White,Mexican,Civ Employed,graduate,65000
+Male,37,Married,White,Mexican,Civ Employed,HS Grad,10000
+Female,37,Never,White,Mexican,Civ Employed,graduate,80160
+Female,37,Separated,White,Mexican,Civ Employed,some HS,16000
+Female,37,Divorced,Asian,Not Hisp,Civ Employed,graduate,38600
+Female,37,Divorced,White,Not Hisp,Civ Employed,graduate,45000
+Female,37,Married,Asian,Not Hisp,Civ Employed,graduate,77000
+Male,37,Married,Asian,Not Hisp,Civ Employed,bachelor's,180000
+Male,37,Married,Asian,Not Hisp,Civ Employed,bachelor's,120000
+Male,37,Married,Asian,Not Hisp,Civ Employed,8 or less,7000
+Male,37,Married,Asian,Not Hisp,Civ Employed,HS Grad,45000
+Female,37,Married,Black,Not Hisp,Civ Employed,graduate,125000
+Female,37,Married,White,Not Hisp,Civ Employed,graduate,133000
+Female,37,Married,White,Not Hisp,Civ Employed,HS Grad,20000
+Female,37,Married,White,Not Hisp,Civ Employed,bachelor's,85000
+Female,37,Married,White,Not Hisp,Civ Employed,bachelor's,50000
+Female,37,Married,White,Not Hisp,Civ Employed,some college,73000
+Male,37,Married,White,Not Hisp,Civ Employed,bachelor's,115000
+Male,37,Married,White,Not Hisp,Civ Employed,graduate,4300
+Male,37,Married,White,Not Hisp,Civ Employed,graduate,113000
+Male,37,Married,White,Not Hisp,Civ Employed,bachelor's,84000
+Male,37,Married,White,Not Hisp,Civ Employed,bachelor's,61000
+Female,37,Never,Asian,Not Hisp,Civ Employed,bachelor's,180000
+Female,37,Never,Asian,Not Hisp,Civ Employed,some college,42000
+Female,37,Never,Asian,Not Hisp,Civ Employed,HS Grad,45500
+Female,37,Never,Asian,Not Hisp,Civ Employed,bachelor's,30000
+Female,37,Never,Black,Not Hisp,Civ Employed,some college,6200
+Female,37,Never,White,Not Hisp,Civ Employed,bachelor's,100000
+Male,37,Never,White,Not Hisp,Civ Employed,some college,12000
+Male,37,Never,White,Not Hisp,Civ Employed,HS Grad,23500
+Female,37,Married,Asian,Not Hisp,Civ Employed-not working,bachelor's,80000
+Female,37,Married,Other,Mexican,Not in labor force,some HS,5000
+Female,37,Married,Other,Mexican,Not in labor force,8 or less,0
+Female,37,Married,White,Mexican,Not in labor force,8 or less,18600
+Female,37,Married,White,Mexican,Not in labor force,HS Grad,0
+Male,37,Married,Asian,Not Hisp,Not in labor force,graduate,24900
+Female,37,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,37,Married,White,Not Hisp,Not in labor force,some college,0
+Male,37,Married,White,Not Hisp,Not in labor force,bachelor's,8000
+Female,37,Married,White,Not Hisp,Unemployed,some college,14200
+Female,37,Never,White,Not Hisp,Unemployed,graduate,5500
+Male,37,Never,White,Not Hisp,Unemployed,graduate,24000
+Male,38,Never,White,Not Hisp,Armed Forces,graduate,123000
+Male,38,Divorced,White,Mexican,Civ Employed,8 or less,17000
+Female,38,Married,Other,Mexican,Civ Employed,some college,30000
+Female,38,Married,White,Mexican,Civ Employed,HS Grad,22000
+Male,38,Married,White,Mexican,Civ Employed,HS Grad,17000
+Male,38,Married,White,Mexican,Civ Employed,HS Grad,16600
+Male,38,Married,White,Mexican,Civ Employed,some college,110000
+Female,38,Never,Other,Mexican,Civ Employed,some college,40000
+Male,38,Never,Other,Mexican,Civ Employed,some HS,12000
+Male,38,Never,White,Mexican,Civ Employed,bachelor's,12800
+Male,38,Never,White,Mexican,Civ Employed,HS Grad,100000
+Female,38,Widowed,White,Mexican,Civ Employed,some college,32000
+Female,38,Divorced,White,Not Hisp,Civ Employed,some college,14000
+Female,38,Divorced,White,Not Hisp,Civ Employed,bachelor's,97000
+Female,38,Married,Asian,Not Hisp,Civ Employed,bachelor's,50000
+Male,38,Married,Asian,Not Hisp,Civ Employed,graduate,201000
+Male,38,Married,Asian,Not Hisp,Civ Employed,some college,4200
+Female,38,Married,White,Not Hisp,Civ Employed,some college,40000
+Female,38,Married,White,Not Hisp,Civ Employed,bachelor's,225000
+Female,38,Married,White,Not Hisp,Civ Employed,graduate,80000
+Male,38,Married,White,Not Hisp,Civ Employed,graduate,200000
+Male,38,Married,White,Not Hisp,Civ Employed,bachelor's,65000
+Male,38,Married,White,Not Hisp,Civ Employed,bachelor's,80000
+Male,38,Married,White,Not Hisp,Civ Employed,graduate,80000
+Male,38,Married,White,Not Hisp,Civ Employed,HS Grad,48000
+Male,38,Married,White,Not Hisp,Civ Employed,graduate,105000
+Male,38,Married,White,Not Hisp,Civ Employed,some college,14000
+Male,38,Married,White,Not Hisp,Civ Employed,graduate,110000
+Male,38,Married,White,Not Hisp,Civ Employed,bachelor's,75000
+Female,38,Never,AmInd+,Not Hisp,Civ Employed,some HS,20000
+Female,38,Never,Asian,Not Hisp,Civ Employed,HS Grad,25000
+Male,38,Never,Asian,Not Hisp,Civ Employed,bachelor's,48000
+Female,38,Never,White,Not Hisp,Civ Employed,some college,48100
+Male,38,Never,White,Not Hisp,Civ Employed,some college,60000
+Male,38,Never,White,Not Hisp,Civ Employed,HS Grad,40000
+Male,38,Never,White,Not Hisp,Civ Employed,graduate,70000
+Female,38,Married,White,Puerto Rican,Civ Employed,HS Grad,30300
+Male,38,Never,White,Salvadoran,Civ Employed,some HS,51000
+Female,38,Divorced,Black,Not Hisp,Civ Employed-not working,some college,36000
+Male,38,Divorced,Multi,Mexican,Not in labor force,HS Grad,2000
+Female,38,Married,White,Mexican,Not in labor force,some college,0
+Female,38,Never,Other,Mexican,Not in labor force,8 or less,320
+Female,38,Never,White,Mexican,Not in labor force,8 or less,0
+Female,38,Never,White,Mexican,Not in labor force,8 or less,0
+Male,38,Never,White,Mexican,Not in labor force,HS Grad,100
+Male,38,Married,Black,Not Hisp,Not in labor force,HS Grad,81000
+Female,38,Married,Multi,Not Hisp,Not in labor force,HS Grad,38000
+Female,38,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Male,38,Never,White,Not Hisp,Not in labor force,HS Grad,100
+Male,38,Married,Other,Mexican,Unemployed,HS Grad,33000
+Male,38,Married,White,Mexican,Unemployed,8 or less,6300
+Male,39,Married,White,Cuban,Civ Employed,HS Grad,72000
+Male,39,Divorced,White,Mexican,Civ Employed,HS Grad,43300
+Male,39,Married,Other,Mexican,Civ Employed,8 or less,14000
+Female,39,Married,White,Mexican,Civ Employed,bachelor's,60000
+Female,39,Married,White,Mexican,Civ Employed,HS Grad,41000
+Male,39,Married,White,Mexican,Civ Employed,some HS,48000
+Male,39,Married,White,Mexican,Civ Employed,graduate,90010
+Male,39,Married,White,Mexican,Civ Employed,HS Grad,43000
+Male,39,Married,White,Mexican,Civ Employed,bachelor's,18000
+Male,39,Never,Other,Mexican,Civ Employed,some HS,12700
+Female,39,Never,White,Mexican,Civ Employed,some college,52000
+Female,39,Never,White,Mexican,Civ Employed,HS Grad,24000
+Female,39,Never,White,Mexican,Civ Employed,8 or less,20000
+Male,39,Never,White,Mexican,Civ Employed,8 or less,10000
+Male,39,Never,White,Mexican,Civ Employed,some college,39700
+Female,39,Separated,White,Mexican,Civ Employed,8 or less,12000
+Female,39,Divorced,HawPacIsl,Not Hisp,Civ Employed,HS Grad,15300
+Female,39,Divorced,White,Not Hisp,Civ Employed,some college,11500
+Female,39,Married,Asian,Not Hisp,Civ Employed,HS Grad,22100
+Female,39,Married,Asian,Not Hisp,Civ Employed,HS Grad,6000
+Female,39,Married,Asian,Not Hisp,Civ Employed,HS Grad,19000
+Male,39,Married,Asian,Not Hisp,Civ Employed,graduate,134000
+Male,39,Married,Asian,Not Hisp,Civ Employed,HS Grad,13700
+Male,39,Married,Multi,Not Hisp,Civ Employed,graduate,421000
+Female,39,Married,White,Not Hisp,Civ Employed,bachelor's,85000
+Female,39,Married,White,Not Hisp,Civ Employed,bachelor's,50000
+Female,39,Married,White,Not Hisp,Civ Employed,some college,2000
+Female,39,Married,White,Not Hisp,Civ Employed,HS Grad,15000
+Male,39,Married,White,Not Hisp,Civ Employed,bachelor's,59000
+Male,39,Married,White,Not Hisp,Civ Employed,HS Grad,80000
+Male,39,Married,White,Not Hisp,Civ Employed,some college,20000
+Male,39,Married,White,Not Hisp,Civ Employed,graduate,102000
+Male,39,Married,White,Not Hisp,Civ Employed,graduate,15000
+Male,39,Married,White,Not Hisp,Civ Employed,HS Grad,43000
+Male,39,Married,White,Not Hisp,Civ Employed,HS Grad,6600
+Female,39,Never,Asian,Not Hisp,Civ Employed,bachelor's,100000
+Female,39,Never,Black,Not Hisp,Civ Employed,some college,36000
+Female,39,Never,White,Not Hisp,Civ Employed,some college,75000
+Female,39,Never,White,Not Hisp,Civ Employed,graduate,80000
+Female,39,Never,White,Not Hisp,Civ Employed,bachelor's,53000
+Male,39,Never,White,Not Hisp,Civ Employed,some college,30000
+Male,39,Never,White,Not Hisp,Civ Employed,some college,8000
+Male,39,Married,Other,Salvadoran,Civ Employed,bachelor's,10000
+Female,39,Married,Other,Mexican,Not in labor force,some HS,0
+Female,39,Married,Asian,Not Hisp,Not in labor force,graduate,0
+Male,39,Married,Asian,Not Hisp,Not in labor force,bachelor's,0
+Female,39,Married,Black,Not Hisp,Not in labor force,HS Grad,0
+Female,39,Married,White,Not Hisp,Not in labor force,some HS,0
+Female,39,Married,White,Not Hisp,Not in labor force,some college,800
+Female,39,Married,White,Not Hisp,Not in labor force,some college,30
+Male,39,Divorced,White,Not Hisp,Unemployed,some college,20000
+Female,39,Married,White,Not Hisp,Unemployed,some college,8400
+Male,39,Never,Asian,Not Hisp,Unemployed,HS Grad,0
+Female,39,Never,White,Not Hisp,Unemployed,graduate,163500
+Male,39,Never,White,Not Hisp,Unemployed,bachelor's,8000
+Female,39,Married,White,Peruvian,Unemployed,some college,0
+Female,40,Married,Other,Guatemalan,Civ Employed,some HS,7900
+Male,40,Never,Other,Guatemalan,Civ Employed,bachelor's,2100
+Male,40,Never,Other,Guatemalan,Civ Employed,8 or less,15000
+Male,40,Never,Other,Guatemalan,Civ Employed,8 or less,15000
+Female,40,Married,Other,Honduran,Civ Employed,some college,13500
+Female,40,Married,Other,Mexican,Civ Employed,some college,22000
+Male,40,Married,Other,Mexican,Civ Employed,some college,18000
+Male,40,Married,Other,Mexican,Civ Employed,8 or less,24000
+Female,40,Married,White,Mexican,Civ Employed,some college,40300
+Male,40,Married,White,Mexican,Civ Employed,HS Grad,16600
+Male,40,Married,White,Mexican,Civ Employed,some HS,30000
+Male,40,Married,White,Mexican,Civ Employed,8 or less,19000
+Male,40,Never,Other,Mexican,Civ Employed,HS Grad,9000
+Female,40,Never,White,Mexican,Civ Employed,8 or less,12000
+Male,40,Never,White,Mexican,Civ Employed,some HS,60000
+Male,40,Never,White,Mexican,Civ Employed,8 or less,21600
+Male,40,Married,White,Nicaraguan,Civ Employed,graduate,142500
+Female,40,Divorced,White,Not Hisp,Civ Employed,HS Grad,50000
+Male,40,Divorced,White,Not Hisp,Civ Employed,bachelor's,12100
+Female,40,Married,Asian,Not Hisp,Civ Employed,bachelor's,18000
+Female,40,Married,Asian,Not Hisp,Civ Employed,graduate,88800
+Male,40,Married,Asian,Not Hisp,Civ Employed,graduate,91000
+Male,40,Married,Asian,Not Hisp,Civ Employed,graduate,130000
+Male,40,Married,Asian,Not Hisp,Civ Employed,bachelor's,60000
+Female,40,Married,Black,Not Hisp,Civ Employed,HS Grad,30000
+Male,40,Married,Multi,Not Hisp,Civ Employed,some HS,150000
+Female,40,Married,White,Not Hisp,Civ Employed,graduate,73000
+Female,40,Married,White,Not Hisp,Civ Employed,some college,40000
+Female,40,Married,White,Not Hisp,Civ Employed,bachelor's,82000
+Male,40,Married,White,Not Hisp,Civ Employed,graduate,86000
+Male,40,Married,White,Not Hisp,Civ Employed,some college,12000
+Male,40,Married,White,Not Hisp,Civ Employed,graduate,62050
+Male,40,Married,White,Not Hisp,Civ Employed,some college,62000
+Male,40,Married,White,Not Hisp,Civ Employed,some college,54000
+Male,40,Married,White,Not Hisp,Civ Employed,bachelor's,50000
+Female,40,Never,Asian,Not Hisp,Civ Employed,graduate,80000
+Female,40,Never,Asian,Not Hisp,Civ Employed,graduate,111200
+Female,40,Never,Asian,Not Hisp,Civ Employed,HS Grad,30000
+Male,40,Never,White,Not Hisp,Civ Employed,some college,18000
+Male,40,Never,White,Not Hisp,Civ Employed,graduate,140300
+Male,40,Never,White,Not Hisp,Civ Employed,bachelor's,50000
+Male,40,Married,Other,Peruvian,Civ Employed,bachelor's,24000
+Male,40,Never,Other,Salvadoran,Civ Employed,8 or less,17100
+Female,40,Married,Asian,Not Hisp,Civ Employed-not working,bachelor's,45000
+Female,40,Never,White,Not Hisp,Civ Employed-not working,bachelor's,80000
+Male,40,Married,Other,Mexican,Not in labor force,some HS,0
+Female,40,Married,White,Mexican,Not in labor force,some HS,19000
+Female,40,Married,White,Mexican,Not in labor force,some college,0
+Female,40,Married,Asian,Not Hisp,Not in labor force,graduate,0
+Female,40,Married,Asian,Not Hisp,Not in labor force,some college,0
+Female,40,Married,White,Not Hisp,Not in labor force,some college,0
+Male,40,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,40,Never,Asian,Not Hisp,Not in labor force,bachelor's,0
+Female,40,Never,Black,Not Hisp,Not in labor force,some college,0
+Male,40,Never,White,Not Hisp,Not in labor force,HS Grad,0
+Male,40,Married,White,Not Hisp,Unemployed,some college,4100
+Female,40,Never,White,Not Hisp,Unemployed,HS Grad,9400
+Male,40,Never,Other,Spaniard,Unemployed,HS Grad,0
+Male,41,Married,Multi,Guatemalan,Civ Employed,bachelor's,80000
+Female,41,Never,White,Guatemalan,Civ Employed,some HS,12000
+Female,41,Married,Other,Mexican,Civ Employed,8 or less,36700
+Male,41,Married,Other,Mexican,Civ Employed,HS Grad,55000
+Female,41,Married,White,Mexican,Civ Employed,some college,9400
+Male,41,Married,White,Mexican,Civ Employed,8 or less,37000
+Male,41,Married,White,Mexican,Civ Employed,some HS,20000
+Male,41,Married,White,Mexican,Civ Employed,some college,40000
+Male,41,Never,AmInd+,Mexican,Civ Employed,some HS,12000
+Male,41,Never,Other,Mexican,Civ Employed,8 or less,25000
+Female,41,Separated,White,Mexican,Civ Employed,HS Grad,15000
+Female,41,Divorced,Black,Not Hisp,Civ Employed,some college,12000
+Female,41,Divorced,White,Not Hisp,Civ Employed,some college,105000
+Female,41,Divorced,White,Not Hisp,Civ Employed,graduate,91000
+Female,41,Married,Asian,Not Hisp,Civ Employed,HS Grad,49400
+Female,41,Married,Asian,Not Hisp,Civ Employed,graduate,10000
+Male,41,Married,Asian,Not Hisp,Civ Employed,bachelor's,421000
+Male,41,Married,Asian,Not Hisp,Civ Employed,graduate,426000
+Male,41,Married,Asian,Not Hisp,Civ Employed,bachelor's,92000
+Male,41,Married,Asian,Not Hisp,Civ Employed,bachelor's,110000
+Female,41,Married,Black,Not Hisp,Civ Employed,some college,36500
+Male,41,Married,Multi,Not Hisp,Civ Employed,HS Grad,12000
+Female,41,Married,White,Not Hisp,Civ Employed,some college,42900
+Female,41,Married,White,Not Hisp,Civ Employed,graduate,68000
+Male,41,Married,White,Not Hisp,Civ Employed,HS Grad,85000
+Male,41,Married,White,Not Hisp,Civ Employed,some college,10100
+Male,41,Married,White,Not Hisp,Civ Employed,graduate,93000
+Male,41,Married,White,Not Hisp,Civ Employed,graduate,308000
+Male,41,Married,White,Not Hisp,Civ Employed,graduate,72000
+Male,41,Never,Black,Not Hisp,Civ Employed,some college,24000
+Male,41,Never,White,Not Hisp,Civ Employed,some college,77000
+Male,41,Separated,White,Not Hisp,Civ Employed,bachelor's,9600
+Female,41,Married,White,Mexican,Civ Employed-not working,HS Grad,7400
+Male,41,Never,White,Not Hisp,Civ Employed-not working,some college,7500
+Female,41,Married,Other,Mexican,Not in labor force,some college,0
+Male,41,Married,White,Mexican,Not in labor force,some HS,0
+Female,41,Married,Asian,Not Hisp,Not in labor force,some college,0
+Female,41,Married,White,Not Hisp,Not in labor force,some college,0
+Male,41,Never,Black,Not Hisp,Not in labor force,HS Grad,0
+Female,41,Married,Other,Other Hisp/Latino,Not in labor force,HS Grad,0
+Female,41,Married,White,Mexican,Unemployed,some HS,10000
+Female,41,Divorced,White,Not Hisp,Unemployed,some HS,0
+Female,41,Married,White,Not Hisp,Unemployed,some college,0
+Female,41,Married,White,Not Hisp,Unemployed,some college,0
+Male,42,Married,Other,Mexican,Civ Employed,some HS,23000
+Female,42,Married,White,Mexican,Civ Employed,some HS,30000
+Female,42,Married,White,Mexican,Civ Employed,some college,23000
+Female,42,Married,White,Mexican,Civ Employed,some college,37000
+Male,42,Married,White,Mexican,Civ Employed,some HS,90000
+Male,42,Married,White,Mexican,Civ Employed,8 or less,52000
+Male,42,Never,Other,Mexican,Civ Employed,HS Grad,25500
+Male,42,Never,White,Mexican,Civ Employed,some college,55000
+Male,42,Never,White,Mexican,Civ Employed,HS Grad,16900
+Female,42,Divorced,White,Not Hisp,Civ Employed,bachelor's,54000
+Female,42,Divorced,White,Not Hisp,Civ Employed,some college,11300
+Male,42,Divorced,White,Not Hisp,Civ Employed,bachelor's,150000
+Male,42,Divorced,White,Not Hisp,Civ Employed,bachelor's,140000
+Female,42,Married,Asian,Not Hisp,Civ Employed,graduate,78000
+Female,42,Married,Asian,Not Hisp,Civ Employed,some college,70000
+Female,42,Married,Asian,Not Hisp,Civ Employed,graduate,40000
+Male,42,Married,Asian,Not Hisp,Civ Employed,graduate,189900
+Male,42,Married,Asian,Not Hisp,Civ Employed,some HS,15200
+Male,42,Married,Asian,Not Hisp,Civ Employed,bachelor's,150000
+Female,42,Married,Multi,Not Hisp,Civ Employed,bachelor's,36000
+Female,42,Married,White,Not Hisp,Civ Employed,bachelor's,45000
+Female,42,Married,White,Not Hisp,Civ Employed,some college,80000
+Female,42,Married,White,Not Hisp,Civ Employed,bachelor's,40000
+Female,42,Married,White,Not Hisp,Civ Employed,some college,45000
+Female,42,Married,White,Not Hisp,Civ Employed,some college,40000
+Female,42,Married,White,Not Hisp,Civ Employed,graduate,30800
+Male,42,Married,White,Not Hisp,Civ Employed,bachelor's,421000
+Male,42,Married,White,Not Hisp,Civ Employed,some college,40000
+Male,42,Married,White,Not Hisp,Civ Employed,HS Grad,32000
+Male,42,Married,White,Not Hisp,Civ Employed,some college,89530
+Male,42,Married,White,Not Hisp,Civ Employed,bachelor's,120000
+Male,42,Married,White,Not Hisp,Civ Employed,some college,80000
+Male,42,Married,White,Not Hisp,Civ Employed,bachelor's,92000
+Male,42,Married,White,Not Hisp,Civ Employed,bachelor's,317800
+Male,42,Never,Black,Not Hisp,Civ Employed,HS Grad,1000
+Female,42,Never,White,Not Hisp,Civ Employed,bachelor's,55000
+Female,42,Never,White,Not Hisp,Civ Employed,bachelor's,421000
+Female,42,Never,White,Not Hisp,Civ Employed,bachelor's,87000
+Female,42,Never,White,Not Hisp,Civ Employed,graduate,421000
+Male,42,Never,White,Not Hisp,Civ Employed,graduate,47500
+Male,42,Never,White,Not Hisp,Civ Employed,bachelor's,90000
+Male,42,Never,White,Not Hisp,Civ Employed,bachelor's,39050
+Male,42,Married,Black,Puerto Rican,Civ Employed,bachelor's,60000
+Female,42,Never,Other,Mexican,Civ Employed-not working,8 or less,15400
+Female,42,Married,Asian,Not Hisp,Civ Employed-not working,bachelor's,90000
+Female,42,Married,Other,Mexican,Not in labor force,HS Grad,0
+Male,42,Never,Other,Mexican,Not in labor force,some HS,0
+Male,42,Divorced,White,Not Hisp,Not in labor force,some HS,11100
+Female,42,Married,Asian,Not Hisp,Not in labor force,graduate,0
+Female,42,Married,Asian,Not Hisp,Not in labor force,8 or less,0
+Female,42,Married,Asian,Not Hisp,Not in labor force,some college,0
+Female,42,Divorced,Asian,Not Hisp,Unemployed,graduate,34000
+Male,42,Married,Asian,Not Hisp,Unemployed,8 or less,6000
+Male,42,Married,White,Not Hisp,Unemployed,some college,0
+Male,42,Never,White,Not Hisp,Unemployed,HS Grad,4000
+Female,42,Divorced,Multi,Other Hisp/Latino,Unemployed,some HS,0
+Female,42,Married,White,Puerto Rican,Unemployed,HS Grad,200
+Female,43,Married,Other,Honduran,Civ Employed,8 or less,7000
+Male,43,Married,Other,Mexican,Civ Employed,some HS,38000
+Male,43,Married,Other,Mexican,Civ Employed,graduate,80000
+Female,43,Married,White,Mexican,Civ Employed,some college,27000
+Male,43,Married,White,Mexican,Civ Employed,bachelor's,99000
+Male,43,Married,White,Mexican,Civ Employed,HS Grad,37000
+Female,43,Never,Multi,Mexican,Civ Employed,graduate,60000
+Male,43,Never,Other,Mexican,Civ Employed,HS Grad,22000
+Female,43,Never,White,Mexican,Civ Employed,some HS,10000
+Female,43,Separated,Other,Mexican,Civ Employed,HS Grad,1900
+Female,43,Divorced,White,Not Hisp,Civ Employed,graduate,175020
+Male,43,Divorced,White,Not Hisp,Civ Employed,HS Grad,82000
+Female,43,Married,Asian,Not Hisp,Civ Employed,graduate,-2400
+Female,43,Married,Asian,Not Hisp,Civ Employed,some college,40000
+Female,43,Married,Asian,Not Hisp,Civ Employed,some HS,23000
+Female,43,Married,White,Not Hisp,Civ Employed,bachelor's,100000
+Female,43,Married,White,Not Hisp,Civ Employed,graduate,61000
+Male,43,Married,White,Not Hisp,Civ Employed,HS Grad,70000
+Male,43,Married,White,Not Hisp,Civ Employed,graduate,421000
+Male,43,Married,White,Not Hisp,Civ Employed,graduate,70000
+Male,43,Married,White,Not Hisp,Civ Employed,HS Grad,45000
+Male,43,Married,White,Not Hisp,Civ Employed,HS Grad,45100
+Male,43,Married,White,Not Hisp,Civ Employed,graduate,180000
+Male,43,Married,White,Not Hisp,Civ Employed,some college,95000
+Female,43,Never,Black,Not Hisp,Civ Employed,some college,21600
+Male,43,Never,Black,Not Hisp,Civ Employed,bachelor's,10000
+Male,43,Never,Black,Not Hisp,Civ Employed,bachelor's,21000
+Male,43,Never,White,Not Hisp,Civ Employed,bachelor's,78000
+Male,43,Married,Multi,Other Hisp/Latino,Civ Employed,some college,37000
+Male,43,Married,White,Other Hisp/Latino,Civ Employed,some HS,45000
+Female,43,Married,Other,Mexican,Not in labor force,8 or less,0
+Female,43,Married,White,Mexican,Not in labor force,HS Grad,0
+Female,43,Married,White,Mexican,Not in labor force,graduate,0
+Female,43,Married,Asian,Not Hisp,Not in labor force,bachelor's,0
+Male,43,Never,White,Not Hisp,Not in labor force,some college,0
+Male,43,Never,White,Salvadoran,Not in labor force,bachelor's,13000
+Male,43,Married,White,Mexican,Unemployed,8 or less,0
+Male,43,Never,White,Mexican,Unemployed,HS Grad,11000
+Male,43,Married,Black,Not Hisp,Unemployed,bachelor's,0
+Male,43,Never,Asian,Not Hisp,Unemployed,graduate,9500
+Female,44,Married,Other,Guatemalan,Civ Employed,8 or less,76000
+Female,44,Divorced,Other,Mexican,Civ Employed,some college,39000
+Female,44,Married,Multi,Mexican,Civ Employed,8 or less,19200
+Male,44,Married,Other,Mexican,Civ Employed,some HS,30000
+Female,44,Married,White,Mexican,Civ Employed,some HS,7200
+Male,44,Married,White,Mexican,Civ Employed,some HS,40000
+Male,44,Married,White,Mexican,Civ Employed,HS Grad,39000
+Female,44,Never,Other,Mexican,Civ Employed,8 or less,24000
+Male,44,Never,Other,Mexican,Civ Employed,some college,18200
+Male,44,Divorced,Asian,Not Hisp,Civ Employed,graduate,95000
+Male,44,Divorced,White,Not Hisp,Civ Employed,some college,170000
+Male,44,Divorced,White,Not Hisp,Civ Employed,bachelor's,60000
+Male,44,Divorced,White,Not Hisp,Civ Employed,graduate,44000
+Female,44,Married,Asian,Not Hisp,Civ Employed,HS Grad,14150
+Male,44,Married,Asian,Not Hisp,Civ Employed,bachelor's,155500
+Male,44,Married,Asian,Not Hisp,Civ Employed,some college,84300
+Male,44,Married,Asian,Not Hisp,Civ Employed,HS Grad,12000
+Male,44,Married,Asian,Not Hisp,Civ Employed,graduate,120000
+Male,44,Married,Black,Not Hisp,Civ Employed,graduate,79370
+Female,44,Married,White,Not Hisp,Civ Employed,bachelor's,150000
+Female,44,Married,White,Not Hisp,Civ Employed,HS Grad,30000
+Female,44,Married,White,Not Hisp,Civ Employed,bachelor's,48000
+Female,44,Married,White,Not Hisp,Civ Employed,some college,41000
+Male,44,Married,White,Not Hisp,Civ Employed,HS Grad,20000
+Male,44,Married,White,Not Hisp,Civ Employed,graduate,130000
+Male,44,Married,White,Not Hisp,Civ Employed,some college,34500
+Male,44,Married,White,Not Hisp,Civ Employed,HS Grad,50000
+Male,44,Married,White,Not Hisp,Civ Employed,some HS,70000
+Male,44,Never,Black,Not Hisp,Civ Employed,HS Grad,15000
+Female,44,Separated,Asian,Not Hisp,Civ Employed,bachelor's,40000
+Female,44,Widowed,Black,Not Hisp,Civ Employed,some HS,40000
+Male,44,Widowed,White,Not Hisp,Civ Employed,bachelor's,99000
+Female,44,Married,White,Salvadoran,Civ Employed,HS Grad,50000
+Female,44,Married,White,Spaniard,Civ Employed,graduate,250000
+Male,44,Married,White,Not Hisp,Civ Employed-not working,HS Grad,30000
+Female,44,Married,White,Not Hisp,Not in labor force,some college,0
+Female,44,Married,White,Not Hisp,Not in labor force,bachelor's,0
+Female,44,Never,Asian,Not Hisp,Not in labor force,HS Grad,27000
+Male,44,Never,Black,Not Hisp,Not in labor force,8 or less,8400
+Male,44,Married,White,Not Hisp,Unemployed,bachelor's,20000

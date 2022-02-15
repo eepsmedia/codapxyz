@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+==========================================================================
+
+ * Created by tim on 5/18/18.
+ 
+ 
+ ==========================================================================
+index in codapxyz
+
+    Author:   Tim Erickson
+
+Copyright (c) 2018 by The Concord Consortium, Inc. All rights reserved.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+limitations under the License.
+==========================================================================
+
+LOCAL DEPLOY        http://localhost/codapxyz/
+
+On CODAP.XYZ        https://codap.xyz/
+
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>codap.xyz</title>
+
+    <link rel='stylesheet' type='text/css' href='codapxyz.css'/>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700' rel="stylesheet">
+
+    <!--    favicon         -->
+    <link rel="shortcut icon" href="https://www.eeps.com/assets/favicon/favicon.png" type="image/x-icon">
+
+</head>
+<body>
+<h1>codap.xyz</h1>
+<p>Developing CODAP plugins since before CODAP</p>
+
+
+<h2>data portals</h2>
+<div class="pluginSet">
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <!--
+                               href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/nhanes15/nhanes.html"
+           -->
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://concord-consortium.github.io/codap-data-interactives/data-science-worlds/nhanes/nhanes.html"
+                    target="_blank">
+                nhanes</a></h2>
+        <p>Health data from 2003, via Concord Consortium</p>
+
+        <div class="roundIcons">
+            <a target="_blank" href="https://codap.concord.org">
+                <img src="art/cc-logo/cc-logo@32p.png" height="32" width="31" alt="concord"/>
+            </a>
+
+            <img src="art/info.png" class="infoIcon" alt="info"
+                 title="Health data from the 2002&ndash;2003 NHANES. Suggestions welcome about which attributes to include. This is currently housed at The Concord Consortium, not here at codap.xyz!"/>
+        </div>
+
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/blodgett/"
+               target="_blank">
+                blodgett</a></h2>
+        <p>Data from 2017 in the Blodgett Forest, California.</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/blodgett">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://concord-consortium.github.io/codap-data-interactives/data-science-worlds/barty/barty.html"
+               target="_blank">
+                BART data</a></h2>
+        <p>BART (transit) data, 2015&ndash;2018, via Concord Consortium</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://codap.concord.org">
+                <img src="art/cc-logo/cc-logo@32p.png" height="32" width="31" alt="concord"/>
+            </a>
+            <img src="art/info.png" class="infoIcon" alt="info"
+                 title="Access to over 40 million records. Has the number of riders between every pair of stations every hour.">
+        </div>
+
+    </div>   <!-- BARTY -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.concord.org/sdlc/plugin/index.html"
+               target="_blank">
+                Census data</a>
+        </h2>
+        <p>From IPUMS, via Concord Consortium.</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://codap.concord.org">
+                <img src="art/cc-logo/cc-logo@32p.png" height="32" width="31" alt="concord"/>
+            </a>
+            <img src="art/info.png" class="infoIcon" alt="info"
+                 title="From US Census and American Community Survey. Back to 1860!">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/noaa-cdo">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>   <!-- Concord ACS/Census -->
+
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/noaa-cdo/"
+               target="_blank">
+                noaa</a>
+        </h2>
+        <p>Weather data from NOAA.</p>
+        <div class="roundIcons">
+            <img src="art/info.png" class="infoIcon" alt="info"
+                 title="Data from NOAA, 1950&ndash;2018. Tidy. Temperature, rain, snow, and wind only. NOAA limits us to 1000 records and time spans of 10 years per request.">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/noaa-cdo">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>   <!-- noaa -->
+
+</div>
+
+<h2>plugins that create data</h2>
+<div class="pluginSet">
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/jove/jove.html"
+               target="_blank">
+                Galileo</a></h2>
+        <p>
+            <img src="art/galileo.png" width="100%" alt="jupiter picture">
+        </p>
+        <div class="roundIcons">
+            <img src="art/info.png" class="infoIcon" alt="info"
+                 title="Investigate Jovian satellites! Write your own Starry Messenger!">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/jove">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/timer/"
+               target="_blank">
+                timer</a></h2>
+        <p>Record times when you click the button</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/timer">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>      <!--timer-->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/xeno/xeno.html"
+               target="_blank">
+                xeno</a></h2>
+        <p>Alien creatues for diagnosis. </p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/xeno">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>    <!--xeno-->
+
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/texty/"
+               target="_blank">
+                texty</a></h2>
+        <p>Rudimentary text analysis.</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/texty">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>  <!-- texty  -->
+
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/sentimento/"
+               target="_blank">
+                sentimento</a></h2>
+        <p>Rudimentary sentiment analysis.</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/sentimento">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>  <!--    sentimento      -->
+</div>
+
+
+<h2>inference tools</h2>
+<div class="pluginSet">
+
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/scrambler/"
+               target="_blank">
+                scrambler</a></h2>
+        <p>Scramble attributes to do simulation-based inference!</p>
+        <p>
+            <a target="_blank"
+               href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FjEeBNIbK29v5XwtZdmhy%2Ffile.json">
+                Sample document</a> referred to in the info.</p>
+
+        <div class="roundIcons">
+            <a target="_blank" href="https://codap.xyz/plugins/scrambler/help/help.en.html">
+                <img src="art/info.png" class="infoIcon" alt="info">
+            </a>
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/scrambler/readme.md#scrambler">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+    </div> <!-- scrambler -->
+
+    <!--Bootstrap-->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/bootstrap/"
+               target="_blank">
+                bootstrap</a></h2>
+        <p>Bootstrap data to do simulation-based estimates!</p>
+        <p>
+            <a target="_blank"
+               href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FYsa0fn45SrcjLwjS8TMf%2Ffile.json">
+                Sample document</a> referred to in the info.</p>
+
+        <div class="roundIcons">
+            <a target="_blank" href="https://codap.xyz/plugins/bootstrap/help/help.en.html">
+                <img src="art/info.png" class="infoIcon" alt="info">
+            </a>
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/bootstrap/readme.md#bootstrap">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+    </div> <!-- bootstrap -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/binomial/"
+               target="_blank">
+                binomial simulator</a></h2>
+        <p>Useful in a stats class. Eventually, the github link will have lesson suggestions.
+        </p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/binomial/README.md">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>      <!-- binomial -->
+
+</div>
+
+<h2>utilities</h2>
+<div class="pluginSet">
+
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/choosy/"
+               target="_blank">
+                choosy</a></h2>
+        <ul>
+            <li>hide and categorize attributes.</li>
+            <li>tag cases using selection</li>
+        </ul>
+        <p>This is the latest version.</p>
+
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/choosy/readme.md#choosy">
+                <img src="art/info.png" class="infoIcon" alt="info"
+                     title="Drag the URL into an existing CODAP document. Categorize attributes. Tag cases.">
+            </a>
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/choosy/readme.md#choosy">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div> <!-- choosy -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/scrambler/"
+               target="_blank">
+                scrambler</a></h2>
+        <p>Scramble attributes to do simulation-based inference!</p>
+        <p>
+            <a target="_blank"
+               href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FjEeBNIbK29v5XwtZdmhy%2Ffile.json">
+                Sample document</a> referred to in the info and at Github.</p>
+
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/scrambler/readme.md#scrambler">
+                <img src="art/info.png" class="infoIcon" alt="info">
+            </a>
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/scrambler/readme.md#scrambler">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div> <!-- scrambler -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/spreader/"
+               target="_blank">
+                spreader</a></h2>
+        <p>De-tidify a dataset.</p>
+        <div class="roundIcons">
+            <img src="art/info.png" class="infoIcon" alt="info"
+                 title=
+                         "Drag the URL into an existing CODAP document. Choose which attributes to spread. Click the refresh icon when necessary.">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/spreader">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div> <!-- spreader -->
+
+
+</div>
+
+<!--
+Tree section (arbor, xeno, etc)
+-->
+<h2>plugins and data with trees</h2>
+<div class="pluginSet">
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/arbor/"
+               target="_blank">
+                arbor</a></h2>
+        <p>Classification and regression tree tool. Drag the URL into an existing CODAP document.
+            Do this <i>after</i> you have the dataset you want to analyze.</p>
+
+    </div>       <!-- arbor -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/xeno/xeno.html"
+               target="_blank">
+                xeno</a></h2>
+        <p>Alien creatues for diagnosis (plain). </p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/xeno">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+    </div>    <!--xeno plain-->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=114025"
+               target="_blank">
+                xeno plus</a></h2>
+        <p>Alien creatues for diagnosis (with instructions). </p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/xeno">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+    </div>    <!--xeno w help-->
+
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=112180"
+               target="_blank">
+                MI tree</a></h2>
+        <p>Green & Mehr heart attack (MI) data, with the tree.</p>
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2Fd8E2V1j01rwDIHLmuyaz%2Ffile.json"
+               target="_blank">
+                Titanic tree</a></h2>
+        <p>Titanic data, with the tree.</p>
+
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html#shared=112182"
+               target="_blank">
+                Tirannica in progress</a></h2>
+        <p>A Xeno scenario.</p>
+
+    </div>
+
+</div>
+
+<h2>static data</h2>
+<div class="pluginSet">
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?url=https://codap.xyz/static-data/codap/ACS1000.codap"
+               target="_blank">
+                ACS1000</a></h2>
+        <p>1000 Californians from 2013</p>
+        <div class="roundIcons">
+            <a target="_blank" href="static-data/csv/ACS1000.csv">
+                <img src="art/CSV-icon-32.png" alt="csv">
+            </a>
+        </div>
+
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?url=https://codap.xyz/static-data/codap/nhanes ages 5 to 19.codap"
+               target="_blank">
+                nhanes 800</a></h2>
+        <p>800 children and teens</p>
+        <div class="roundIcons">
+            <a target="_blank" href="static-data/csv/nhanes ages 5 to 19.csv">
+                <img src="art/CSV-icon-32.png" alt="csv">
+            </a>
+        </div>
+
+    </div>
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?url=https://codap.xyz/static-data/codap/Titanic Passengers.codap"
+               target="_blank">
+                Titanic</a></h2>
+        <p>1309 passengers</p>
+        <div class="roundIcons">
+            <a target="_blank"
+               href="https://github.com/eepsmedia/codapxyz/blob/master/static-data/csv/Titanic%20Passengers.csv">
+                <img src="art/CSV-icon-32.png" alt="csv">
+            </a>
+        </div>
+
+    </div>
+
+</div>
+
+<h2>Fish/Commons Simulation</h2>
+<div class="pluginSet">
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/fish/"
+               target="_blank">
+                fish</a></h2>
+        <p>A Commons game. You catch fish&mdash;but not too many!</p>
+        <p>
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/fish/"
+               target="_blank">
+                A "Fish" instantiation embedded in CODAP
+            </a></p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/fish">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>    <!--fish player-->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/plugins/mazu/"
+               target="_blank">
+                mazu</a></h2>
+        <p>God of the sea; use this to create and monitor fish games.
+            (That is, this is the "teacher" app.)</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/tree/master/mazu">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>    <!-- mazu -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://github.com/eepsmedia/plugins/blob/master/mazu/README.md"
+               target="_blank">
+                documentation</a></h2>
+        <p>More to come!</p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/mazu/README.md">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>    <!--documentation-->
+
+</div>
+
+<h2>other stuff</h2>
+<div class="pluginSet">
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.concord.org/releases/latest/static/dg/en/cert/index.html?di=https://codap.xyz/plugins/binomial/"
+               target="_blank">
+                binomial simulator</a></h2>
+        <p>Useful in a stats class. Eventually, the github link will have lesson suggestions.
+        </p>
+        <div class="roundIcons">
+            <a target="_blank" href="https://github.com/eepsmedia/plugins/blob/master/binomial/README.md">
+                <img src="art/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="github">
+            </a>
+        </div>
+
+    </div>      <!-- binomial -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="https://codap.xyz/nos/"
+               target="_blank">
+                Nature of Science Simulation</a></h2>
+        <p>The 21st Century reboot!
+            Only supports the "four-color universe" scenario,
+            which was the most popular anyway.
+        </p>
+
+    </div>      <!-- NoS -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="pluginTutorialHome.html"
+               target="_blank">
+                Plugin tutorial</a></h2>
+        <p>How to make a CODAP plugin</p>
+
+    </div>      <!-- tutorial -->
+
+    <div class="pluginBox">
+        <h2 class="pluginBoxText">
+            <a href="awash/"
+               target="_blank">
+                Awash in Data</a></h2>
+        <p>Online book! An introduction to data science with CODAP </p>
+
+    </div>      <!-- Awash -->
+
+</div>
+</body>
+</html>
