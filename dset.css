@@ -5,6 +5,13 @@ body {
     margin : 0;
 }
 
+.flagButton {
+    cursor : pointer;
+    border-radius: 1.0em;
+    font-size: 24px;
+    margin: 0.2em;
+}
+
 h2 {
     color: #225577;
 }

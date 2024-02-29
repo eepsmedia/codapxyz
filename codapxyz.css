@@ -33,6 +33,13 @@ body    {
     margin: 2.0em;
 }
 
+.flagButton {
+    cursor : pointer;
+    border-radius: 1.0em;
+    font-size: 24px;
+    margin: 0.2em;
+}
+
 h1  {
     font-size: 5.0em;
     font-family: 'Open+Sans+Condensed', Verdana, sans-serif;
