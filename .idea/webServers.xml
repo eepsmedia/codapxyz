@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2f3a5d24-0604-48b2-8e3c-d574a80ca184" name="codapxyz root" url="http://184.154.47.42">
-        <fileTransfer rootFolder="/public_html" host="184.154.47.42" port="21">
+      <webServer id="2f3a5d24-0604-48b2-8e3c-d574a80ca184" name="codapxyz root" url="http://chi206.greengeeks.net">
+        <fileTransfer rootFolder="/public_html/" host="chi206.greengeeks.net" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
